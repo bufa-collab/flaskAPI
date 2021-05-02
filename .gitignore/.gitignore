@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+env
+venv
+.gitignore
+.env
+pytest.ini
+.pytest*
+*.db
+*.pyc
